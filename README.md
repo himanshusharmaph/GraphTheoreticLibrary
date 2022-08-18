@@ -1,4 +1,4 @@
-# GraphTheoreticLibrary by mshiladityam
+# GraphTheoreticLibrary 
 
 Source.cpp consists of a object oriented programming template for Graph Theoretic Problems in Competitive Programming. This serves as a blackbox to solve graph problems.
 
