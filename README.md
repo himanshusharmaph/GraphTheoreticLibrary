@@ -22,7 +22,7 @@ Works for both directed and undirected Graph objects
 This has the path compression optimisation. This works in O(logn) per query on an average. This class is used for other algorithms as 
 an object in there class (for example, for Kruskal's MST)
 
-<h1> Prim's Clas </h1>
+<h1> Prim's Class </h1>
 This is the O((V+E)LOG) algorithm to find out the weight of the minimum spanning tree of an object Graph.
 
 It takes an object of class Graph as a parameter in its constructor function and returns the value of the weight of any MST of the graph, 
